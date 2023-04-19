@@ -6,5 +6,7 @@ tags: [changelog, welcome, introduction]
 ---
 As of today, users are able to login & register on Divhunt dashboard with their Google Accounts.
 
-## How to login using Google Account
+### How to login using Google Account
 To sign-in using your Google Account, visit **[divhunt.com/sign-in](https://divhunt.com/sign-in)**.
+
+![Divhunt Google Sign-in]([/img/docusaurus.png](https://global.divhunt.com/071d9c353259fba8cb923659e30028f8_36430.png))
