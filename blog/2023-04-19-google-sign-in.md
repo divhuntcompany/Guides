@@ -12,6 +12,6 @@ Simplified login and registration flow for our users, allowing them to even easi
 ### How to login using Google Account
 To sign-in using your Google Account: 
 - Visit **[divhunt.com/sign-in](https://divhunt.com/sign-in)**.
-- Click on "Sign in with Google".
+- Click on "Sign in with Google" as shown in image blow.
 
 ![Docusaurus logo](https://global.divhunt.com/071d9c353259fba8cb923659e30028f8_36430.png)
